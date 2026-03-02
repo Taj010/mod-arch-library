@@ -1,6 +1,6 @@
 {
   "name": "mod-arch-core",
-  "version": "0.0.0-semantically-released",
+  "version": "1.7.0",
   "description": "Core functionality and API utilities for modular architecture micro-frontend projects",
   "main": "dist/index.js",
   "module": "dist/index.js",

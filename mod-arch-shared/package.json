@@ -1,6 +1,6 @@
 {
   "name": "mod-arch-shared",
-  "version": "0.0.0-semantically-released",
+  "version": "1.7.0",
   "description": "Shared UI components and utilities for modular architecture micro-frontend projects",
   "main": "dist/index.js",
   "module": "dist/index.js",
@@ -93,7 +93,7 @@
     "classnames": "^2.2.6",
     "dompurify": "^3.2.4",
     "lodash-es": "^4.17.23",
-    "mod-arch-core": "0.0.0-semantically-released",
+    "mod-arch-core": "1.7.0",
     "showdown": "^2.1.0"
   },
   "optionalDependencies": {

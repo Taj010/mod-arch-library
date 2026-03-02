@@ -1,6 +1,6 @@
 {
   "name": "mod-arch-library",
-  "version": "0.0.0-semantically-released",
+  "version": "1.7.0",
   "description": "Modular Architecture Essentials - A monorepo containing libraries for building scalable micro-frontend applications",
   "private": true,
   "workspaces": [
